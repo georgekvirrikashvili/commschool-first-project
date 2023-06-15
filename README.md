@@ -1,2 +1,3 @@
 # commschool-first-project
-ეს რეპოზიტორია არის სატესტო
+
+ვიმყოფებით ახალ ბრენჩზე new-branch
